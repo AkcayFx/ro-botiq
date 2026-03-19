@@ -15,12 +15,6 @@ A **ROS 2** package for autonomous robot coverage path planning. The robot autom
 ### Planned Hazard Tagging Pipeline
 ![Hazard Pipeline](images/hazard_pipeline.jpg)
 
-### RViz — Live Coverage Tracking
-![RViz Coverage](images/rviz_coveragepercent.png)
-
-### RViz — Path Coverage
-![RViz Path](images/rviz_pathcoverage1.png)
-
 ### TF Tree
 ![TF Tree](images/TF_tree.png)
 
