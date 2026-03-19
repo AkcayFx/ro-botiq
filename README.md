@@ -4,6 +4,28 @@ A **ROS 2** package for autonomous robot coverage path planning. The robot autom
 
 ---
 
+## 🖼️ Screenshots
+
+### Gazebo Simulation — TurtleBot3 World
+![Gazebo Simulation](images/gazebo.png)
+
+### Software Architecture
+![Software Architecture](images/software_architecture.jpg)
+
+### Planned Hazard Tagging Pipeline
+![Hazard Pipeline](images/hazard_pipeline.jpg)
+
+### RViz — Live Coverage Tracking
+![RViz Coverage](images/rviz_coveragepercent.png)
+
+### RViz — Path Coverage
+![RViz Path](images/rviz_pathcoverage1.png)
+
+### TF Tree
+![TF Tree](images/TF_tree.png)
+
+---
+
 ## 📦 Package: `cleaner_coverage`
 
 | Node | Entry Point | Description |
